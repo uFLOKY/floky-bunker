@@ -1,0 +1,23 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>testbunker.ymap</Item>
+    <Item>gr_case1_bunkerclosed.ymap</Item>
+    <Item>cs4_occl_02.ymap</Item>
+    <Item>floky_bunker_milo_.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>floky_gr_grdlc_int_02.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
